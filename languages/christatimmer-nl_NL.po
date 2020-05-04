@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Christa Timmer\n"
+"POT-Creation-Date: 2019-09-30 13:32+0200\n"
+"PO-Revision-Date: 2019-09-30 13:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: christatimmer.php:39
+msgid "Tools"
+msgstr "Tools"
+
+#: christatimmer.php:39
+msgid "Posts"
+msgstr "Berichten"
+
+#: christatimmer.php:39
+msgid "Comments"
+msgstr "Reacties"
+
+#: christatimmer.php:52 christatimmer.php:62 cpt-class.php:8
+msgid "Classes"
+msgstr "Lessen"
+
+#: christatimmer.php:54 cpt-class.php:10
+msgid "All Classes"
+msgstr "Alle lessen"
+
+#: christatimmer.php:55 christatimmer.php:65 cpt-class.php:12
+msgid "Add New Class"
+msgstr "Nieuwe les"
+
+#: christatimmer.php:56 cpt-class.php:55
+msgid "Courses"
+msgstr "Cursussen"
+
+#: christatimmer.php:63 christatimmer.php:67
+msgid "Class"
+msgstr "Les"
+
+#: christatimmer.php:64 cpt-class.php:13
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: christatimmer.php:66 cpt-class.php:14
+msgid "Edit Class"
+msgstr "Bewerk les"
+
+#: christatimmer.php:68 cpt-class.php:11
+msgid "View Class"
+msgstr "Bekijk les"
+
+#: christatimmer.php:69 cpt-class.php:16
+msgid "Search Class"
+msgstr "Zoek les"
+
+#: christatimmer.php:70 cpt-class.php:17
+msgid "Not found"
+msgstr "Niet gevonden"
+
+#: christatimmer.php:71 cpt-class.php:18
+msgid "Not found in Trash"
+msgstr "Niet gevonden in de prullenbak"
+
+#: cpt-class.php:6
+msgctxt "Post Type General Name"
+msgid "Classes"
+msgstr "Lessen"
+
+#: cpt-class.php:7
+msgctxt "Post Type Singular Name"
+msgid "Class"
+msgstr "Les"
+
+#: cpt-class.php:9
+msgid "Parent Class:"
+msgstr "Bovenliggende les:"
+
+#: cpt-class.php:15
+msgid "Update Class"
+msgstr "Les bijwerken"
+
+#: cpt-class.php:21 cpt-class.php:39
+msgid "class"
+msgstr "les"
+
+#: cpt-class.php:22
+msgid "Fitness classes"
+msgstr "Fitness lessen"
+
+#: cpt-class.php:53
+msgctxt "Taxonomy General Name"
+msgid "Courses"
+msgstr "Cursussen"
+
+#: cpt-class.php:54
+msgctxt "Taxonomy Singular Name"
+msgid "Course"
+msgstr "Cursus"
+
+#: cpt-class.php:56
+msgid "All Courses"
+msgstr "Alle cursussen"
+
+#: cpt-class.php:57
+msgid "Parent Course"
+msgstr "Hoofd cursus"
+
+#: cpt-class.php:58
+msgid "Parent Course:"
+msgstr "Hoofd cursus:"
+
+#: cpt-class.php:59
+msgid "New Course"
+msgstr "Nieuwe cursus"
+
+#: cpt-class.php:60
+msgid "Add New Course"
+msgstr "Nieuwe cursus toevoegen"
+
+#: cpt-class.php:61
+msgid "Edit Course"
+msgstr "Bewerk cursus"
+
+#: cpt-class.php:62
+msgid "Update Course"
+msgstr "Cursus bijwerken"
+
+#: cpt-class.php:63
+msgid "Separate Courses with commas"
+msgstr "Cursussen scheiden met komma 's"
+
+#: cpt-class.php:64
+msgid "Search Courses"
+msgstr "Zoek cursussen"
+
+#: cpt-class.php:65
+msgid "Add or remove Courses"
+msgstr "Toevoegen of verwijderen van cursussen"
+
+#: cpt-class.php:66
+msgid "Choose from the most used Courses"
+msgstr "Kiezen uit de meest gebruikte cursussen"
+
+#: cpt-class.php:67
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+#: cpt-class.php:70
+msgid "course"
+msgstr "cursus"
+
+#: cpt-filter.php:16
+msgid "All"
+msgstr "Alle"
