@@ -3,7 +3,7 @@
  * Plugin Name:  Christa Timmer
  * Plugin URI:   https://christatimmer.nl
  * Description:  Boilerplate for Christa Timmer
- * Version:      1.1
+ * Version:      1.2
  * Author:       Johan van der Wijk
  * Author URI:   https://thewebworks.nl
  * Text Domain:  christatimmer
@@ -18,7 +18,7 @@ if ( ! defined( 'WPINC' ) ) {
 
 // launch the plugin and load the translation files
 function ct_plugin_init() {
-	load_plugin_textdomain( 'christatimmer', false, 'christatimmer/languages' );
+	load_plugin_textdomain( 'christatimmer', false, 'christatimmer-plugin/languages' );
 }
 add_action( 'plugins_loaded', 'ct_plugin_init' );
 
